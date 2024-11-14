@@ -13,8 +13,8 @@ $pip install -r requirements.txt
 
 ### Churn Analysis
 You can visualize how the columns and their data are related to churn. You can also have an understanding on how the data are distributed in each column.
-#### check file: churn_analysis.ipynb
+#### check file: [churn_analysis.ipynb](https://github.com/Prof-Awing/Churn-Predictor/blob/main/churn_analysis.ipynb)
 
 ### Churn model
 We have provided two models, one is Random Forest and the other is XGBoost, for classified prediction of churning. 
-#### Check file:
+#### Check file: [churn_pred_model.ipynb](https://github.com/Prof-Awing/Churn-Predictor/blob/main/churn_pred_model.ipynb)
