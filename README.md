@@ -3,8 +3,8 @@ Trains data on customer churning history and predicts possible future churns
 
 ### Steps
 1. Clone the data using the command:
-html: `git clone https://github.com/Prof-Awing/Churn-Predictor.git`
-GitHub CLI: `gh repo clone Prof-Awing/Churn-Predictor`
+- **html: `git clone https://github.com/Prof-Awing/Churn-Predictor.git`**
+- **GitHub CLI: `gh repo clone Prof-Awing/Churn-Predictor`**
 
 3. Install dependencies:
 ```
